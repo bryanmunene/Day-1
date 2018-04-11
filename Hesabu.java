@@ -37,7 +37,7 @@ public class Hesabu {
         }
         public void volsphere (double radius)
         {
-            double PI = 3.142;
+            double PI = 22/7F;
             System.out.println(4/3F * PI * radius * radius * radius);
         }
         //Vcone = 1/3 × pi × r2 × h
